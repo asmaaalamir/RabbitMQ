@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9RxzfcKLStOBtNBygHUjLdd3Rv9IldheEQWeuL3C1xgekjShWrdTEvK7G7VU7tanchqhxPhXlXgKO33qH52NfQ==",
+  "success": true,
+  "projectFilePath": "D:\\udemy\\ProducerConsumerRabbitMQ\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
